@@ -26,7 +26,7 @@
   
 - 💬 Contact me for an interesting conversation
 
-- 💬 can you send me an email to programandopanconqueso@hotmail.com and jesusperdomojunior@gmail.com
+- 💬 can you send me an email to BadDevprograming@gmail.com and jesusperdomojunior@gmail.com
    
 - ⚡ Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.
 
