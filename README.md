@@ -78,6 +78,7 @@
 
 <a href = 'https://www.github.com/JDPR19'>  ![Github Badge](https://img.shields.io/badge/GitHub-343434?logo=github&logoColor=fff&style=flat)</a>
 <a href = 'jesusperdomojunior@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
+<a href = 'baddevprograming@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
 <a href = 'programandopanconqueso@hotmail.com'>  ![Outlook Badge](https://img.shields.io/badge/Hotmail-0078D4?logo=Outlook&logoColor=fff&style=flat)</a>
 <a href = 'https://discordapp.com/users/894678781418147870'> ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)</a>
 <a href = 'https://www.facebook.com/mono.lito.186'> ![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=fff&style=flat)</a>
