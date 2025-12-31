@@ -76,7 +76,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href = 'https://www.github.com/JDPR19'>  ![Github Badge](https://img.shields.io/badge/GitHub-343434?logo=github&logoColor=fff&style=flat)</a>
+<a href = 'https://www.github.com/DaniDev-19'>  ![Github Badge](https://img.shields.io/badge/GitHub-343434?logo=github&logoColor=fff&style=flat)</a>
 <a href = 'jesusperdomojunior@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
 <a href = 'baddevprograming@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
 <a href = 'programandopanconqueso@hotmail.com'>  ![Outlook Badge](https://img.shields.io/badge/Hotmail-0078D4?logo=Outlook&logoColor=fff&style=flat)</a>
