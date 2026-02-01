@@ -91,11 +91,14 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
-# Mis Estadísticas de GitHub
+# 📊 Estadísticas de Contribución
 
-[![Stats de DaniDev-19](https://github-readme-stats.vercel.app/api?username=DaniDev-19&show_icons=true&theme=synthwave)](https://github.com/DaniDev-19)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniDev-19&theme=synthwave)
 
-[![Lenguajes de DaniDev-19](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDev-19&theme=synthwave&layout=compact)](https://github.com/DaniDev-19)
+# 🛠️ Top Lenguajes y Actividad
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DaniDev-19&theme=synthwave)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniDev-19&theme=synthwave)
 
 <Hr>
 
