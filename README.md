@@ -26,7 +26,7 @@
   
 - 💬 Contact me for an interesting conversation
 
-- 💬 can you send me an email to BadDevprograming@gmail.com and jesusperdomojunior@gmail.com
+- 💬 can you send me an email to DanijDev19@gmail.com and BadDevprograming@gmail.com  
    
 - ⚡ Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.
 
@@ -77,7 +77,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href = 'https://www.github.com/DaniDev-19'>  ![Github Badge](https://img.shields.io/badge/GitHub-343434?logo=github&logoColor=fff&style=flat)</a>
-<a href = 'jesusperdomojunior@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
+<a href = 'danijdev19@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
 <a href = 'baddevprograming@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
 <a href = 'programandopanconqueso@hotmail.com'>  ![Outlook Badge](https://img.shields.io/badge/Hotmail-0078D4?logo=Outlook&logoColor=fff&style=flat)</a>
 <a href = 'https://discordapp.com/users/894678781418147870'> ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)</a>
@@ -91,9 +91,9 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
-![JDPR19 github stats](https://github-readme-stats.vercel.app/api?username=JDPR19&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true
+![DaniDev-19 github stats](https://github-readme-stats.vercel.app/api?username=DaniDev-19&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true
 )
-![JDPR19 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDPR19&theme=synthwave&layout=compact)
+![DaniDev-19 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDev-19&theme=synthwave&layout=compact)
 
 <Hr>
 
