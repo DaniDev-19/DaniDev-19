@@ -93,9 +93,9 @@
 
 # Mis Estadísticas de GitHub
 
-![Stats de DaniDev-19](https://github-readme-stats.vercel.app/api?username=DaniDev-19&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
+[![Stats de DaniDev-19](https://github-readme-stats.vercel.app/api?username=DaniDev-19&show_icons=true&theme=synthwave)](https://github.com/DaniDev-19)
 
-![Lenguajes de DaniDev-19](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDev-19&theme=synthwave&layout=compact)
+[![Lenguajes de DaniDev-19](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDev-19&theme=synthwave&layout=compact)](https://github.com/DaniDev-19)
 
 <Hr>
 
