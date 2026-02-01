@@ -91,9 +91,11 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
-![DaniDev-19 github stats](https://github-readme-stats.vercel.app/api?username=DaniDev-19&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true
-)
-![DaniDev-19 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDev-19&theme=synthwave&layout=compact)
+# Mis Estadísticas de GitHub
+
+![Stats de DaniDev-19](https://github-readme-stats.vercel.app/api?username=DaniDev-19&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
+
+![Lenguajes de DaniDev-19](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDev-19&theme=synthwave&layout=compact)
 
 <Hr>
 
