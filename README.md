@@ -1,107 +1,97 @@
-
-
 <div align='center'>
-  
-  <h1> Hi, I'm Jesus Daniel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-
+  <h1> Hi, I'm Jesus Daniel (DanijDev) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+  <p> <b>Full Stack Software Engineer | Backend Specialist | Entrepreneur</b></p>
 </div>
 
-<div size='20px'> Hi!  Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> 
+ Thank you for visiting my professional space! I am a Computer Engineer dedicated to developing robust and scalable technological solutions.
 </div>
 
 <br>
 
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Professional Profile
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
- 
-- 🔭 I am currently a computer Engineer and Web Developer.
-  
-- 🌱 I am currently constantly learning different technologies such as React, Git, Node.js and PostgreSql
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Contact me for an interesting conversation
 
-- 💬 can you send me an email to DanijDev19@gmail.com and BadDevprograming@gmail.com  
-   
-- ⚡ Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.
-
-- ⚡ philosophizing " There are solutions, you just have to develop them ".
+- 🔭 **Expertise:** I am a **Software Engineer** specializing in systems architecture and web development.
+- 🏢 **Entrepreneurship:** Founder & CEO of **Zymtaxis Tech Solutions**, managing multiple tech branches from mentoring to high-end software build.
+- ⚡ **Current Project:** Lead Developer for **"Floppi"**, a comprehensive system for dynamic invoice management and financial data security.
+- 🛠️ **Engineering Challenge:** Currently restoring and optimizing legacy flight simulators (Visual FoxPro 9.0 & SQL).
+- 🌱 **Stack Focus:** Advanced proficiency in **Python (FastAPI)** and **PHP (Laravel)**, with continuous evolution in React and DevOps.
+- 👯 **Collaboration:** Open to high-impact projects, API integrations, and innovative software architectures.
+- ⚡ **Philosophy:** *"Learning by Creating, Creating by Learning"*
 
 <br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Technologies</b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tech Stack & Mastery</b>
 
-- ## Languages
-  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=white&style=flat)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
-  ![PHP Badge](https://img.shields.io/badge/PHP-%2300599C.svg?&logo=PHP&logoColor=white&style=flat)
-  ![CSS Badge](https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
-  ![HTML5 Badge](https://img.shields.io/badge/HTML-%23E34F26.svg?&logo=html5&logoColor=white&style=flat)
-  
- 
-- ## Frameworks
-  ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat) 
-  ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat)
-  ![TailwindCss Badge](https://img.shields.io/badge/Tailwind-2496ED?logo=tailwindcss&logoColor=fff&style=flat)
+### Programming Languages
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- ## Databases
-  ![MySQL Badge](https://img.shields.io/badge/MySQL-%23600f.svg?&logo=mysql&logoColor=white&style=flat)
-  ![Postgres Badge](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white&style=flat)
-  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white&style=flat)
+### Frameworks & Environments
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- ## Version Controls & CI/CD
-  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-  ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
+### Database Management
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- ## Clouds & Hostings
-  ![Netlify Badge](https://img.shields.io/badge/Netlify-%23000000.svg?&logo=netlify&logoColor=00C7B7&style=flat) 
-  ![Heroku Badge](https://img.shields.io/badge/Heroku-%23430098.svg?&logo=heroku&logoColor=white&style=flat) 
-  ![Apache Badge](https://img.shields.io/badge/Apache-C71A36?&logo=Apache&logoColor=white&style=flat)
-  ![Vercel Badge](https://img.shields.io/badge/Vercel-89A3CC?&logo=Vercel&logoColor=white&style=flat)
+### DevOps & Infrastructure
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-- ## IDEs & Tools
-  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-  ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
-  ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
-    
+<br>
 
-    \* Skills in study and improvement.
+<h2> Connect with my work <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
+<a href = 'https://www.github.com/DaniDev-19'> ![Github Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href = 'mailto:DanijDev19@gmail.com'> ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href = 'https://t.me/BadOmensDEV'> ![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href = 'https://discordapp.com/users/894678781418147870'> ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href = 'https://www.instagram.com/chiguirito19/'> ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<a href = 'https://www.github.com/DaniDev-19'>  ![Github Badge](https://img.shields.io/badge/GitHub-343434?logo=github&logoColor=fff&style=flat)</a>
-<a href = 'danijdev19@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
-<a href = 'baddevprograming@gmail.com'>  ![Gmail Badge](https://img.shields.io/badge/Gmail-D83B01?logo=gmail&logoColor=fff&style=flat)</a>
-<a href = 'programandopanconqueso@hotmail.com'>  ![Outlook Badge](https://img.shields.io/badge/Hotmail-0078D4?logo=Outlook&logoColor=fff&style=flat)</a>
-<a href = 'https://discordapp.com/users/894678781418147870'> ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)</a>
-<a href = 'https://www.facebook.com/mono.lito.186'> ![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=fff&style=flat)</a>
-<a href = 'https://www.instagram.com/chiguirito19/'> ![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=fff&style=flat)</a>
-<a href = 'https://t.me/BadOmensDEV'> ![Telegram Badge](https://img.shields.io/badge/Telegram-%231877F2?logo=telegram&logoColor=fff&style=flat)</a>
-  
 <br>
 <br>
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Analysis & Productivity</b>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniDev-19&theme=dracula" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniDev-19&theme=dracula" width="49%" />
+</div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniDev-19&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDev-19&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+</div> -->
 
+<br>
 
-# 📊 Estadísticas de Contribución
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniDev-19&theme=tokyonight" width="100%" />
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniDev-19&theme=synthwave)
-
-# 🛠️ Top Lenguajes y Actividad
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DaniDev-19&theme=synthwave)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniDev-19&theme=synthwave)
-
-<Hr>
-
-
-
-
+<hr>
+<div align="center">
+  <p><i>Full Stack Software Engineer focused on efficiency and performance.</i></p>
+</div>
