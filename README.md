@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1> Hi, I'm Jesus Daniel (DanijDev) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+  <h1> Hi, I'm Jesus Daniel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
   <p> <b>Full Stack Software Engineer | Backend Specialist | Entrepreneur</b></p>
 </div>
 
