@@ -16,9 +16,6 @@
 <br>
 
 - 🔭 **Expertise:** I am a **Software Engineer** specializing in systems architecture and web development.
-- 🏢 **Entrepreneurship:** Founder & CEO of **Zymtaxis Tech Solutions**, managing multiple tech branches from mentoring to high-end software build.
-- ⚡ **Current Project:** Lead Developer for **"Floppi"**, a comprehensive system for dynamic invoice management and financial data security.
-- 🛠️ **Engineering Challenge:** Currently restoring and optimizing legacy flight simulators (Visual FoxPro 9.0 & SQL).
 - 🌱 **Stack Focus:** Advanced proficiency in **Python (FastAPI)** and **PHP (Laravel)**, with continuous evolution in React and DevOps.
 - 👯 **Collaboration:** Open to high-impact projects, API integrations, and innovative software architectures.
 - ⚡ **Philosophy:** *"Learning by Creating, Creating by Learning"*
@@ -86,6 +83,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DaniDev-19&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDev-19&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+
+- 🏢 **Entrepreneurship:** Founder & CEO of **Zymtaxis Tech Solutions**, managing multiple tech branches from mentoring to high-end software build.
+- ⚡ **Current Project:** Lead Developer for **"Floppi"**, a comprehensive system for dynamic invoice management and financial data security.
+- 🛠️ **Engineering Challenge:** Currently restoring and optimizing legacy flight simulators (Visual FoxPro 9.0 & SQL).
+
 </div> -->
 
 <br>
